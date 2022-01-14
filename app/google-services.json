@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811599934774",
+    "project_id": "fir-3-e6cfd",
+    "storage_bucket": "fir-3-e6cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811599934774:android:b5a915a6412e4de9272f97",
+        "android_client_info": {
+          "package_name": "com.chigov.firebase3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811599934774-l8fr6jjoaq7uh5k68p4fafqfokerl94h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chigov.firebase3",
+            "certificate_hash": "bce251def1a1f1e42e310de66bb33498ca473601"
+          }
+        },
+        {
+          "client_id": "811599934774-grf2ee4804p79nmhcevv6m8se5p2fpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8q2sv067SIUiWtrZkorsvwP5-JJ8_i7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811599934774-grf2ee4804p79nmhcevv6m8se5p2fpfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
